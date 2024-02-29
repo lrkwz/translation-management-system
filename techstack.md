@@ -5,10 +5,10 @@ lrkwz/translation-management-system is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
 - [Redis](http://redis.io/) – In-Memory Databases
-- [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
-- [Weblate](https://weblate.org/) – Translation Service
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [Weblate](https://weblate.org/) – Translation Service
 
 Full tech stack [here](/techstack.md)
 
@@ -20,10 +20,10 @@ lrkwz/translation-management-system is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png' alt='Redis'/> [Redis](http://redis.io/) – In-Memory Databases
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='pre-commit'/> [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/2018/azsIQqB5_400x400.png' alt='Weblate'/> [Weblate](https://weblate.org/) – Translation Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='pre-commit'/> [pre-commit](http://jish.github.io/pre-commit/) – Git Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/service/2018/azsIQqB5_400x400.png' alt='Weblate'/> [Weblate](https://weblate.org/) – Translation Service
 
 Full tech stack [here](/techstack.md)
 
@@ -34,7 +34,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [lrkwz/translation-management-system](https://github.com/lrkwz/translation-management-system)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|8<br/>Tools used|01/05/24 <br/>Report generated|
+|8<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
